@@ -103,7 +103,7 @@
   <ul>
     <li>Flask</li>
     <li>MongoDB</li>
-    <li>HTML, CSS, JavaScript (for frontend, if applicable)</li>
+   
     <li>...</li>
   </ul>
 
@@ -118,3 +118,5 @@
   </p>
 </body>
 </html>
+![Screenshot from 2023-07-31 18-35-23](https://github.com/Rxghavdev/flaskassignment/assets/94173505/7af7d03c-f6e3-4b64-afa7-b8aae2224dba)
+
